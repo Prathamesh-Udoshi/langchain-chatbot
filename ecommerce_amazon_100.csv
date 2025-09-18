@@ -1,0 +1,101 @@
+month,product_id,product_description,price,quantity,total_order_size,customer_id,customer_name
+November,PROD008,Echo Dot (4th Gen),1113.62,4,4454.48,CUST008,BlueWave Co
+March,PROD007,Kitchen Knife Set 6pc,1112.30,9,10010.70,CUST003,Nova Traders
+October,PROD028,Fire TV Stick 4K,49.55,4,198.20,CUST008,BlueWave Co
+September,PROD039,Echo Dot (4th Gen),844.06,9,7596.54,CUST014,Maple Goods
+April,PROD029,Fitbit Charge 5,420.90,1,420.90,CUST006,Orbit Commerce
+December,PROD028,HP 15 Laptop Sleeve,420.42,4,1681.68,CUST011,Silverline Ltd
+February,PROD006,Sony WH-1000XM4 Headphones,149.59,6,897.54,CUST020,Cedar Supplies
+May,PROD003,Columbia Jacket,691.84,2,1383.68,CUST013,Aurora Imports
+February,PROD036,Logitech K120 Keyboard,1244.96,10,12449.60,CUST012,Prism Mart
+October,PROD013,Levi's Men's Jeans,108.98,4,435.92,CUST010,Sunrise Ventures
+February,PROD015,JBL Portable Speaker,156.00,5,780.00,CUST015,Cascade PVT LTD
+November,PROD024,Samsung Galaxy S21 Case,558.42,4,2233.68,CUST009,GreenLeaf Stores
+December,PROD005,Garmin Forerunner Band,954.29,9,8588.61,CUST008,BlueWave Co
+March,PROD030,Sony WH-1000XM4 Headphones,408.57,9,3677.13,CUST008,BlueWave Co
+November,PROD021,Crockpot Slow Cooker,1153.63,1,1153.63,CUST008,BlueWave Co
+January,PROD021,Sony WH-1000XM4 Headphones,405.27,4,1621.08,CUST019,Lumen Traders
+December,PROD021,USB-C Charging Cable 1m,984.88,7,6894.16,CUST015,Cascade PVT LTD
+March,PROD017,Apple AirPods Pro,373.71,9,3363.39,CUST018,Vivid Deals
+May,PROD038,Dell 24 Monitor,1347.25,7,9430.75,CUST012,Prism Mart
+April,PROD009,SanDisk 128GB MicroSD,742.81,1,742.81,CUST004,Peak Supplies
+March,PROD011,PUMA Sports T-Shirt,1022.32,10,10223.20,CUST003,Nova Traders
+July,PROD025,Garmin Forerunner Band,1494.20,9,13447.80,CUST009,GreenLeaf Stores
+September,PROD001,Kitchen Knife Set 6pc,1082.48,9,9742.32,CUST009,GreenLeaf Stores
+November,PROD022,Amazon Basics Wireless Mouse,443.78,3,1331.34,CUST015,Cascade PVT LTD
+January,PROD017,SanDisk 128GB MicroSD,1144.13,9,10297.17,CUST004,Peak Supplies
+November,PROD020,Crockpot Slow Cooker,960.23,10,9602.30,CUST007,Apex Distrib
+March,PROD024,Adidas Running Shoes,246.52,9,2218.68,CUST001,Hunt LLC
+October,PROD021,WD 512GB SSD,34.12,6,204.72,CUST010,Sunrise Ventures
+April,PROD004,Instant Pot Duo 6QT,1317.62,2,2635.24,CUST003,Nova Traders
+December,PROD032,Crockpot Slow Cooker,108.47,9,976.23,CUST005,Zenith Retailers
+March,PROD031,Roku Streaming Stick,251.86,9,2266.74,CUST020,Cedar Supplies
+July,PROD014,Bose SoundLink Mini,811.25,4,3245.00,CUST010,Sunrise Ventures
+July,PROD024,Seagate 1TB External HDD,1349.92,8,10799.36,CUST004,Peak Supplies
+April,PROD015,Kindle Paperwhite,510.44,10,5104.40,CUST018,Vivid Deals
+April,PROD038,Instant Pot Duo 6QT,15.75,1,15.75,CUST008,BlueWave Co
+February,PROD003,JBL Portable Speaker,498.99,9,4490.91,CUST008,BlueWave Co
+May,PROD032,USB-C Charging Cable 1m,811.15,10,8111.50,CUST019,Lumen Traders
+August,PROD016,PUMA Sports T-Shirt,712.09,7,4984.63,CUST007,Apex Distrib
+February,PROD007,Kitchen Knife Set 6pc,649.42,7,4545.94,CUST014,Maple Goods
+August,PROD004,Kitchen Knife Set 6pc,981.92,2,1963.84,CUST002,Miles PLC
+July,PROD022,PUMA Sports T-Shirt,1293.20,4,5172.80,CUST007,Apex Distrib
+April,PROD035,Seagate 1TB External HDD,214.57,3,643.71,CUST009,GreenLeaf Stores
+August,PROD016,JBL Portable Speaker,1385.28,8,11082.24,CUST018,Vivid Deals
+February,PROD004,Philips LED Desk Lamp,1498.93,1,1498.93,CUST003,Nova Traders
+April,PROD011,Dell 24 Monitor,731.03,4,2924.12,CUST013,Aurora Imports
+January,PROD011,Sony WH-1000XM4 Headphones,8.22,7,57.54,CUST009,GreenLeaf Stores
+August,PROD019,Dell 24 Monitor,1046.40,9,9417.60,CUST016,Harbor Wholesale
+March,PROD013,Logitech K120 Keyboard,330.46,1,330.46,CUST019,Lumen Traders
+December,PROD035,Fire TV Stick 4K,1123.22,1,1123.22,CUST002,Miles PLC
+October,PROD031,SanDisk 128GB MicroSD,1379.48,9,12415.32,CUST006,Orbit Commerce
+January,PROD033,Kindle Paperwhite,1277.76,2,2555.52,CUST020,Cedar Supplies
+February,PROD016,Sony WH-1000XM4 Headphones,184.23,10,1842.30,CUST008,BlueWave Co
+October,PROD039,Fire TV Stick 4K,930.98,7,6516.86,CUST019,Lumen Traders
+October,PROD034,HP 15 Laptop Sleeve,1402.39,4,5609.56,CUST011,Silverline Ltd
+April,PROD017,Sony WH-1000XM4 Headphones,200.66,5,1003.30,CUST015,Cascade PVT LTD
+June,PROD005,Echo Dot (4th Gen),690.14,10,6901.40,CUST004,Peak Supplies
+February,PROD035,USB-C Charging Cable 1m,761.30,3,2283.90,CUST012,Prism Mart
+February,PROD016,Anker Power Bank 10000mAh,431.06,8,3448.48,CUST018,Vivid Deals
+December,PROD020,Garmin Forerunner Band,1475.86,9,13282.74,CUST001,Hunt LLC
+November,PROD036,Logitech K120 Keyboard,1397.98,2,2795.96,CUST005,Zenith Retailers
+May,PROD008,Canon EOS M50 Camera,165.02,9,1485.18,CUST005,Zenith Retailers
+May,PROD019,Garmin Forerunner Band,319.89,6,1919.34,CUST007,Apex Distrib
+November,PROD017,SanDisk 128GB MicroSD,735.36,1,735.36,CUST003,Nova Traders
+November,PROD028,Crockpot Slow Cooker,418.64,1,418.64,CUST011,Silverline Ltd
+March,PROD017,Samsung Galaxy S21 Case,1113.14,9,10018.26,CUST014,Maple Goods
+September,PROD001,Amazon Basics Wireless Mouse,117.49,3,352.47,CUST018,Vivid Deals
+January,PROD024,Fitbit Charge 5,831.03,7,5817.21,CUST005,Zenith Retailers
+January,PROD020,Anker Power Bank 10000mAh,1348.98,1,1348.98,CUST012,Prism Mart
+April,PROD016,Kitchen Knife Set 6pc,158.68,9,1428.12,CUST014,Maple Goods
+October,PROD010,Bose SoundLink Mini,1395.17,3,4185.51,CUST006,Orbit Commerce
+July,PROD002,Samsung Galaxy S21 Case,1106.16,6,6636.96,CUST014,Maple Goods
+November,PROD016,Ninja Air Fryer,243.00,2,486.00,CUST013,Aurora Imports
+January,PROD031,Instant Pot Duo 6QT,303.36,8,2426.88,CUST012,Prism Mart
+May,PROD015,Instant Pot Duo 6QT,40.38,4,161.52,CUST013,Aurora Imports
+June,PROD018,JBL Portable Speaker,108.78,5,543.90,CUST012,Prism Mart
+November,PROD033,Sony WH-1000XM4 Headphones,1020.88,9,9187.92,CUST011,Silverline Ltd
+January,PROD008,Canon EOS M50 Camera,1455.75,3,4367.25,CUST019,Lumen Traders
+May,PROD003,Amazon Basics Wireless Mouse,896.87,6,5381.22,CUST011,Silverline Ltd
+July,PROD039,SanDisk 128GB MicroSD,177.89,10,1778.90,CUST007,Apex Distrib
+May,PROD003,Levi's Men's Jeans,656.91,9,5912.19,CUST018,Vivid Deals
+November,PROD013,Anker Power Bank 10000mAh,649.79,6,3898.74,CUST020,Cedar Supplies
+June,PROD008,Columbia Jacket,1350.57,9,12155.13,CUST010,Sunrise Ventures
+November,PROD027,HP 15 Laptop Sleeve,606.59,5,3032.95,CUST018,Vivid Deals
+March,PROD013,Dell 24 Monitor,999.07,7,6993.49,CUST006,Orbit Commerce
+October,PROD037,Logitech K120 Keyboard,612.08,1,612.08,CUST010,Sunrise Ventures
+May,PROD014,Dell 24 Monitor,1179.71,10,11797.10,CUST011,Silverline Ltd
+August,PROD029,Seagate 1TB External HDD,1015.06,9,9135.54,CUST016,Harbor Wholesale
+December,PROD011,Kitchen Knife Set 6pc,131.77,9,1185.93,CUST020,Cedar Supplies
+June,PROD006,Crockpot Slow Cooker,1428.24,4,5712.96,CUST010,Sunrise Ventures
+April,PROD013,Apple AirPods Pro,41.52,4,166.08,CUST016,Harbor Wholesale
+October,PROD005,Seagate 1TB External HDD,624.59,10,6245.90,CUST007,Apex Distrib
+December,PROD025,WD 512GB SSD,602.48,3,1807.44,CUST001,Hunt LLC
+February,PROD028,Instant Pot Duo 6QT,267.95,9,2411.55,CUST015,Cascade PVT LTD
+January,PROD036,Instant Pot Duo 6QT,1376.62,2,2753.24,CUST015,Cascade PVT LTD
+March,PROD030,Kitchen Knife Set 6pc,799.04,9,7191.36,CUST020,Cedar Supplies
+June,PROD029,Garmin Forerunner Band,1223.43,9,11010.87,CUST014,Maple Goods
+September,PROD029,Canon EOS M50 Camera,242.94,8,1943.52,CUST015,Cascade PVT LTD
+May,PROD016,Crockpot Slow Cooker,958.30,9,8624.70,CUST016,Harbor Wholesale
+November,PROD016,Ninja Air Fryer,662.61,5,3313.05,CUST008,BlueWave Co
+May,PROD022,HP 15 Laptop Sleeve,1340.08,2,2680.16,CUST005,Zenith Retailers
